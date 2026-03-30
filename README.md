@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on classifying iris flowers into three different species — *Setosa*, *Versicolor*, and *Virginica* — using machine learning techniques. It is a beginner-friendly classification problem that helps in understanding how models learn patterns from data.
 
----
+
 
 ## Dataset
 The dataset used in this project contains measurements of iris flowers, including:
@@ -14,7 +14,7 @@ The dataset used in this project contains measurements of iris flowers, includin
 
 Based on these features, the model predicts the species of the flower.
 
----
+
 
 ## Technologies Used
 - Python  
@@ -22,7 +22,7 @@ Based on these features, the model predicts the species of the flower.
 - NumPy  
 - Scikit-learn  
 
----
+
 
 ##  Approach
 The project follows a simple machine learning workflow:
@@ -33,17 +33,17 @@ The project follows a simple machine learning workflow:
 4. Train a classification model  
 5. Evaluate the model’s performance  
 
----
+
 
 ## Result
 The trained model is able to classify iris flowers into their correct species with good accuracy based on the input features.
 
----
+
 
 ## Conclusion
 This project demonstrates the basics of classification in machine learning and provides a strong foundation for working with real-world datasets.
 
----
+
 
 ## Learning Outcome
 - Understanding classification problems  
